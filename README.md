@@ -2,17 +2,15 @@
 &lt;4-2 취업계> 객체 기말과제 수강신청 ( Java Swing 구현 ) - 20221216 ~ 20221218 3일 최종 구현 끝 
 
 
-
+##
 
 
 ### 1. 로그인실패
 <img width="559" alt="스크린샷 2022-12-18 오후 11 43 43" src="https://user-images.githubusercontent.com/66197538/208304759-9e94be79-1d7f-4395-adad-f1c5f599cca5.png">
 ### 2. 로그인성공
 <img width="569" alt="스크린샷 2022-12-18 오후 11 43 57" src="https://user-images.githubusercontent.com/66197538/208304779-1f0883dd-ec84-4b06-bdda-c33b04066351.png">
-
 ### 3. MainView ( 메인 화면 ) 
 <img width="301" alt="스크린샷 2022-12-18 오후 11 44 06" src="https://user-images.githubusercontent.com/66197538/208304799-663c7935-7c61-49c1-8703-9a19177dcfe5.png">
-
 ### 4. 미리담기 
 <img width="995" alt="스크린샷 2022-12-18 오후 11 44 54" src="https://user-images.githubusercontent.com/66197538/208304810-c61d997f-2367-427e-905e-079654d85709.png">
 ### 5. 수강신청하기 
