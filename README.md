@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------------------------
 1. 로그인실패
 <img width="559" alt="스크린샷 2022-12-18 오후 11 43 43" src="https://user-images.githubusercontent.com/66197538/208304759-9e94be79-1d7f-4395-adad-f1c5f599cca5.png">
-## 2. 로그인성공
+2. 로그인성공
 <img width="569" alt="스크린샷 2022-12-18 오후 11 43 57" src="https://user-images.githubusercontent.com/66197538/208304779-1f0883dd-ec84-4b06-bdda-c33b04066351.png">
 3. MainView ( 메인 화면 ) 
 <img width="301" alt="스크린샷 2022-12-18 오후 11 44 06" src="https://user-images.githubusercontent.com/66197538/208304799-663c7935-7c61-49c1-8703-9a19177dcfe5.png">
